@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Code in Swift full time as iOS Developer.
+
+Design and prototype cool stuff at Fintech Company.
+
+📫 [LinkedIn](https://www.linkedin.com/in/yun-ching-tan) | [Medium](https://medium.com/@yunchingtan)
+
 <!--
 **TanYunChing/TanYunChing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
